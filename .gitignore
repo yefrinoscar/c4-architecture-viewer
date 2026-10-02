@@ -1,0 +1,34 @@
+# Dependencias
+node_modules
+
+# Build
+dist
+dist-ssr
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Entorno y locales
+*.local
+.env
+.env.*
+
+# Editor / sistema
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# graphify-axet
+.graphify/
+.render-check-profile
